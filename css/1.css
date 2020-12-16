@@ -1,0 +1,28 @@
+body {
+    /*background-image: url('../media/intro.png');*/
+} 
+
+.font{
+	font: italic bold 12px Times New Roman, serif;
+	text-align: justify;
+}
+
+.text{
+	color: rgb(16 255 0);
+    text-align: end;
+    text-decoration: blink;
+    text-transform: uppercase;
+}
+
+.justify {
+	text-align: justify;
+	text-indent: 50px;
+}
+
+/* Position  */
+.justify{
+    position: fixed;
+    top: 234px;
+    right: 409px;
+    left: 100px;
+}
